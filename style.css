@@ -1,0 +1,57 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+}
+
+span {
+    color: brown;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+section {
+    display: flex;
+    overflow: hidden;
+}
+
+.link-button {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange, red);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 5px 15px;
+}
+
+.back-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.blog {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.blog2 {
+    width: 65%;
+}
+
+.img-size {
+    width: 90%;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+}
+
+.banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
