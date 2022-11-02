@@ -11,9 +11,8 @@ h1 {
     font-size: 40px;
 }
 
-section {
+.conteiner {
     display: flex;
-    overflow: hidden;
 }
 
 .link-button {
