@@ -59,10 +59,23 @@ h3 {
     margin-right 5%;
     margin-bottom: 10%;
     border-color: blue;
+
 }
 
 .last-images {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+
+#web-experience {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, CYAN);
+    border-image-slice: 1;
+}
+
+#web-baby {
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(255, 102, 0), rgb(255, 0, 170));
+    border-image-slice: 1;
 }
