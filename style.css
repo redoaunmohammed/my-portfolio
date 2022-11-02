@@ -32,8 +32,8 @@ h1 {
 }
 
 .half-width {
-    width: 60%;
-    padding: 3%;
+    width: 80%;
+    padding: 2%;
 }
 
 p {
@@ -45,4 +45,24 @@ p {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+h3 {
+    color: orange;
+}
+
+.Experience {
+    box-shadow: 13px 13px 45px gray;
+    width: 75%;
+    padding: 8%;
+    margin-left: 5%;
+    margin-right 5%;
+    margin-bottom: 10%;
+    border-color: blue;
+}
+
+.last-images {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
